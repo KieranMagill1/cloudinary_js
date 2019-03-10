@@ -8,7 +8,7 @@ import {
     ClientHintsMetaTag, Param
 } from './cloudinary-core';
 
-import cloudinary from './cloudinary-core';
+import cloudinary  from './cloudinary-core';
 
 let config: Configuration.Options = { cloud_name: 'demo' };
 
